@@ -1,0 +1,5 @@
+com\example\concessionariacrud\model\Veiculo.class
+com\example\concessionariacrud\repository\VeiculoRepository.class
+com\example\concessionariacrud\service\VeiculoService.class
+com\example\concessionariacrud\ConcessionariaCrudApplication.class
+com\example\concessionariacrud\controller\VeiculoController.class
